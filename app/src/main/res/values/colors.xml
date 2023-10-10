@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Blue">#0F67FE</color>
+    <color name="Red">#FA4D5E</color>
+    <color name="backgroundcolorpass">#141B31</color>
+    <color name="widgetbackcolor">#242E49</color>
+    <color name="Hintfontscolor">#DCE1E8</color>
+    <color name="dangercolor">#FA4D5E</color>
+    
+
+
+
+
+</resources>
